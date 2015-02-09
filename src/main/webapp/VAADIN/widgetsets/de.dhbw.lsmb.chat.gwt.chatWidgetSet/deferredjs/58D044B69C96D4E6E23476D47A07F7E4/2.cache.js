@@ -1,0 +1,1 @@
+$wnd.de_dhbw_lsmb_chat_gwt_chatWidgetSet.runAsyncCallback2('Veb(518,1,HNd);_.vc=function ntc(){fgc((!$fc&&($fc=new lgc),$fc),this.b.e)};CFd(Vh)(2);\n//# sourceURL=de.dhbw.lsmb.chat.gwt.chatWidgetSet-2.js\n')
